@@ -21,4 +21,4 @@ Utilizing the power of transfer learning from a ResNet50 model pre-trained on Im
 
 ### Confusion matrix  
 Confusion matrice for the models offer a detailed view of their performance across different classes. These are particularly useful for identifying which classes are most frequently confused by the models.  
-[](confusion_matrix.png)!
+![](confusion_matrix.png)
