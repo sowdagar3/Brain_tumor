@@ -20,5 +20,5 @@ With more convolutional layers and hyperparameter tuning, this model captured mo
 Utilizing the power of transfer learning from a ResNet50 model pre-trained on ImageNet, this model achieved a higher accuracy due to the robust features extracted from the pre-trained network.
 
 ### Confusion matrix  
-Confusion matrice for the models offer a detailed view of their performance across different classes. These are particularly useful for identifying which classes are most frequently confused by the models.  
+Confusion matrices offer a detailed view of model's performance across different classes. These are particularly useful for identifying which classes are most frequently confused by the models.  
 ![](confusion_matrix.png)
